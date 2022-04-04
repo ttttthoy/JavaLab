@@ -3,7 +3,7 @@ import org.json.simple.JSONObject;
 import net.nurigo.java_sdk.api.Message;
 import net.nurigo.java_sdk.exceptions.CoolsmsException;
 
-public class sms_sending {
+public class Sms_sending {
     public static void main(String[] args){
         String api_key = "가입후 발급받은 API KEY";
         String api_secret = "발급받은 API Secret";
